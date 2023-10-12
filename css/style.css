@@ -16,6 +16,9 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.c-pointer {
+  cursor: pointer;
+}
 .container {
   margin: 0 auto;
 }
